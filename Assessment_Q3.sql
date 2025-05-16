@@ -1,3 +1,5 @@
+-- Q3: Account Inactivity Alert
+
 WITH savings_activity AS (
     SELECT 
         id AS plan_id,
