@@ -1,4 +1,4 @@
--- Q1: High-Value Customers with Multiple Products (Final Fix)
+-- Q1: High-Value Customers with Multiple Products
 
 WITH savings_customers AS (
     SELECT 
