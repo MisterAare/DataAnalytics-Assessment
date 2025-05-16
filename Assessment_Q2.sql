@@ -1,5 +1,4 @@
 -- Q2: Transaction Frequency Analysis
--- NOTE: Replace `transaction_date` with the actual date column in savings_savingsaccount
 
 WITH monthly_transactions AS (
     SELECT 
